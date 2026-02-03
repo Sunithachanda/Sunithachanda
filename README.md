@@ -1,16 +1,49 @@
-## Hi there 👋
+# Personal Portfolio Website
 
-<!--
-**Sunithachanda/Sunithachanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains my **personal portfolio website**, created to showcase my skills, projects, and basic information as a UI/UX Designer and Web Developer.  
+The website is built using **HTML, CSS, and JavaScript** with a clean and responsive layout.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Project Overview
+
+This portfolio highlights:
+- My profile and introduction  
+- Web development and UI/UX projects  
+- Visual assets and project previews  
+- Basic interactive functionality using JavaScript  
+
+It serves as a digital resume and project showcase for recruiters, mentors, and collaborators.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the website  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Interactivity and functionality  
+
+---
+
+## 📂 Project Structure
+
+```text
+├── index.html              # Main HTML file
+├── portfoliostyle.css      # CSS styling file
+├── portfolio.js            # JavaScript file
+├── README.md               # Project documentation
+├── Sunitha Chanda.pdf      # Resume
+├── images/
+│   ├── full pic.jpeg
+│   ├── food app.jpeg
+│   ├── smart-home.jpeg
+│   ├── smart transportation.jpeg
+│   ├── pic2.jfif
+│   └── download.jfif
+
+✨ Features:
+Responsive design
+Simple and clean UI
+Project image previews
+Easy navigation
+Beginner-friendly code structure
