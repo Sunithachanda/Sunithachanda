@@ -1,42 +1,42 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Alex%20Morgan&fontSize=65&fontColor=FFFFFF&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Sunitha%20Chanda&fontSize=65&fontColor=FFFFFF&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%2F+ML+Systems+Architect;Full+Stack+Product+Engineer" alt="Typing Dynamic Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Frontend+Developer;Web+Designer" alt="Typing Dynamic Animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-M.S.+Computer+Science-4C1D95?style=flat-square&logo=academia" alt="Academic Degree" />
-  <img src="https://img.shields.io/badge/Location-San+Francisco%2C+CA-5B21B6?style=flat-square&logo=googlemaps" alt="Location" />
+  <img src="https://img.shields.io/badge/Degree-B.E.+Computer+Science-4C1D95?style=flat-square&logo=academia" alt="Academic Degree" />
+  <img src="https://img.shields.io/badge/Location-Chennai%2C+India-5B21B6?style=flat-square&logo=googlemaps" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="https://portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-Premium-7C3AED?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:alex.morgan@example.com"><img src="https://img.shields.io/badge/Email-Inquire-5B21B6?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://sunithachanda.github.io/Sunithachanda/"><img src="https://img.shields.io/badge/Portfolio-Premium-7C3AED?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+  <a href="http://www.linkedin.com/in/sunitha-chanda-4154a02a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:sunithachanda720@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire-5B21B6?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://github.com/Sunithachanda"><img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=github_username&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/github_username?label=Followers&style=flat-square&color=6D28D9" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/github_username?label=Stars&style=flat-square&color=5B21B6" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Sunithachanda&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sunithachanda?label=Followers&style=flat-square&color=6D28D9" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Sunithachanda?label=Stars&style=flat-square&color=5B21B6" alt="Stars" />
 </p>
 
 ---
 
 ## 2. About Section
 
-I am a Senior Software Engineer and AI/ML Systems Architect focused on constructing high-throughput distributed applications and enterprise-grade machine learning pipelines. My engineering philosophy centers on architectural symmetry, rigorous performance optimization, and building developer-centric platforms that scale deterministically. 
+I am an entry-level UI/UX Designer and Computer Science graduate[cite: 1] with hands-on experience designing responsive web and mobile interfaces[cite: 1], building real-world software products, and maintaining production platforms[cite: 1]. My engineering philosophy centers on architectural symmetry, translating complex user requirements into high-fidelity wireframes[cite: 1], and scaling interactive systems[cite: 1] that optimize user retention and product engagement.
 
-With deep technical execution across full-stack ecosystems and foundational AI infrastructures, I bridge the gap between complex research and robust product engineering. I actively build with a product-first mindset—ensuring system latency, data consistency, and operational safety align precisely with business objectives.
+Bridging the gap between front-end development and intuitive design systems[cite: 1], I approach product engineering with a user-centric mindset[cite: 1]—ensuring interface consistency[cite: 1], performance optimization, and clean accessibility paths line up perfectly with real production metrics.
 
 ### Open To
-*   Core Infrastructure Systems Architecture Strategy
-*   Large Language Model (LLM) Fine-Tuning & Custom RAG Pipeline Design
-*   Technical Leadership Roles in FAANG & High-Growth AI Ventures
-*   High-Scale Open Source Contributions and Collaborations
+*   Full-Time UI/UX Design & Front-End Engineering Roles
+*   Design System Scaling & Cross-Functional Component Integration[cite: 1]
+*   Responsive Mobile (Android) & Web Infrastructure Redesigns[cite: 1]
+*   Open Source Design Systems Contributions & Product Ecosystem Initiatives
 
 ---
 
@@ -44,22 +44,22 @@ With deep technical execution across full-stack ecosystems and foundational AI i
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,go,rust" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Languages" />
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,graphql,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" alt="Frontend" />
 </p>
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis,graphql" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" alt="Backend & Databases" />
 </p>
 
 ### Cloud, DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux,git" alt="Cloud, DevOps & Tooling" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,github,git" alt="Cloud, DevOps & Tooling" />
 </p>
 
 ---
@@ -68,82 +68,102 @@ With deep technical execution across full-stack ecosystems and foundational AI i
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| LLM & Generative AI | Advanced | Deep fine-tuning (LoRA, QLoRA), context injection, custom retrieval systems |
-| Vector Databases | Advanced | High-dimensional similarity indexing using Milvus, Pinecone, and pgvector |
-| ML Infrastructure | Intermediate | Scalable training orchestration using Ray, Kubeflow, and Kubernetes clusters |
-| Deep Learning | Advanced | Neural network engineering across PyTorch, TensorFlow, and Hugging Face |
-| Data Orchestration | Advanced | Distributed preprocessing engines built on Apache Spark and Kafka streams |
+| Computer Vision | Intermediate | Applied deep learning algorithms for real-time human gesture mapping[cite: 1] |
+| Human-Computer Interaction | Advanced | Constructing accessibility interfaces for custom IoT smart frameworks[cite: 1] |
+| Front-End Optimization | Advanced | Fluid layout rendering and responsive pixel-perfect asset design[cite: 1] |
+| Prototyping Systems | Advanced | Interactive mapping, user journey validation, and layout prototyping using Figma[cite: 1] |
+| Low-Code Infrastructure | Advanced | Product deployment workflows across specialized Zoho suite infrastructures[cite: 1] |
 
 ---
 
 ## 5. Featured Projects Section
 
 <details>
-<summary><b>🚀 Project Alpha: Distributed Enterprise RAG Infrastructure</b></summary>
+<summary><b>🚀 Project Alpha: Gesture-Based Smart Home Control System</b></summary>
 <br>
 
-An enterprise-ready Retrieval-Augmented Generation platform engineered to ingest, vectorize, and semantic-search billions of unstructured compliance documents with deterministic audit trails.
+A touch-free, automated ambient home intelligence system designed to manage domestic electronic appliances safely via real-time deep learning gesture recognition profiles[cite: 1].
 
 | Dimension | Specification & Results |
 | :--- | :--- |
-| **Stack** | PyTorch, FastAPI, Go, Qdrant, AWS EKS, Kafka |
-| **Scale** | Vectorized >500M multi-modal documents with sub-15ms semantic retrieval |
-| **Performance** | Integrated Custom CUDA kernels improving token-generation throughput by 42% |
-| **Security** | Zero-Trust architecture with document-level ACL vector masking and TLS 1.3 |
-| **Impact** | Reduced compliance audit cycle latencies from 4 days down to 12 minutes |
-| **Repository** | [github.com/username/enterprise-rag-core](https://github.com) |
+| **Stack** | Python, Deep Learning, OpenCV, Embedded Systems Hardware[cite: 1] |
+| **Scale** | Configured multi-appliance switching fabrics natively mapping edge sensor matrices |
+| **Performance** | Achieved real-time inference loop latency optimizations for high response limits |
+| **Security** | Isolated localized device routing serving a highly hygienic, low-cost alternative framework[cite: 1] |
+| **Impact** | Engineered accessible UI pathways supporting elderly and physically challenged demographics[cite: 1] |
+| **Repository** | [github.com/Sunithachanda/gesture-smart-home](https://github.com/Sunithachanda) |
 
 #### System Architecture Breakdown
-The core framework implements an asymmetrical dual-encoder architecture that indexes unstructured documents asynchronously into partitioned vector spaces. A localized routing network checks queries against cache profiles before hitting the vector cluster, eliminating redundant compute. The final context synthesis engine dynamically rewires graph representations into safe, context-bounded prompts parsed natively by proprietary hosted models.
+The core framework implements an asymmetrical video stream encoder pipeline processing user proximity maps directly via microcontrollers. Live frame data feeds custom-trained computer vision classifiers that map movement vectors into secure digital commands[cite: 1]. This process operates outside public clouds, preserving residential data privacy and bypassing the latency overhead of conventional physical user interfaces[cite: 1].
 </details>
 
 <details>
-<summary><b>⚡ Project Beta: Next-Gen Real-Time Event Analytics Engine</b></summary>
+<summary><b>⚡ Project Beta: Full-Stack MERN Food Delivery Platform</b></summary>
 <br>
 
-A ultra-low latency telemetry and analytical ingestion broker designed to handle massive throughput bursts without message loss or degradation.
+A high-performance, responsive web platform engineered to streamline electronic menu routing, food delivery configurations, and reliable multi-user checkout flows.
 
 | Dimension | Specification & Results |
 | :--- | :--- |
-| **Stack** | Rust, gRPC, Apache Flink, PostgreSQL, ClickHouse, Docker |
-| **Scale** | Peak ingestion handling exceeding 2.5 Million events per second |
-| **Performance** | Zero-copy memory architecture minimizing internal thread context switching |
-| **Security** | Hardware-accelerated end-to-end payload decryption using AES-GCM |
-| **Impact** | Replaced legacy pipeline saving $450K annually in cloud infrastructure overhead |
-| **Repository** | [github.com/username/apex-telemetry-engine](https://github.com) |
+| **Stack** | React.js, Node.js, Express.js, MongoDB, JWT, Jest[cite: 1] |
+| **Scale** | Managed complex atomic transactional routing records over document databases |
+| **Performance** | Configured modular state managers reducing component re-render loops significantly |
+| **Security** | Secure identity provider integration built on cryptographic JSON Web Tokens[cite: 1] |
+| **Impact** | Established robust operational validation pipelines with comprehensive automated testing suites[cite: 1] |
+| **Repository** | [github.com/Sunithachanda/food-delivery-app](https://github.com/Sunithachanda) |
 
 #### System Architecture Breakdown
-Utilizes an event-driven loop topology written completely in Rust to ingest network metrics directly via high-speed gRPC streams. Data passes through localized ring buffers into structured ClickHouse partitions, skipping traditional intermediate allocations. Real-time evaluation steps utilize non-blocking windowing algorithms inside Flink to trigger anomaly detection signals asynchronously within milliseconds of raw edge discovery.
+The application structure uses an isolated frontend design tested via Jest and React Testing Library to match verified browser expectations[cite: 1]. Backend state mutation layers operate under Express servers verified by Mocha and Chai test suites to prevent broken state updates[cite: 1]. Secure sessions use server-signed JWT strategies, keeping credential exchanges sandboxed and authenticated against active injection threats[cite: 1].
+</details>
+
+<details>
+<summary><b>🚌 Project Gamma: IoT-Driven Smart Transportation Solution</b></summary>
+<br>
+
+An integrated transit ecosystem delivering structural telemetry, dynamic scheduling routes, and transparent paperless billing solutions for modern urban travel[cite: 1].
+
+| Dimension | Specification & Results |
+| :--- | :--- |
+| **Stack** | Java, Android Studio, IoT Tracking Architectures[cite: 1] |
+| **Scale** | Coordinated concurrent route updates across multiple independent transit paths[cite: 1] |
+| **Performance** | Automated location payload transmissions optimizing vehicle monitoring intervals |
+| **Security** | Encrypted mobile ledger tokens defending ticket transactions from duplicate execution |
+| **Impact** | Mitigated paper operational overhead[cite: 1] and maximized passenger convenience[cite: 1] |
+| **Repository** | [github.com/Sunithachanda/smart-transit](https://github.com/Sunithachanda) |
+
+#### System Architecture Breakdown
+Designed around mobile micro-clients communicating live transit telemetry coordinates directly to a primary management core[cite: 1]. The mobile client presents live paths, upcoming arrival projections, and secure virtual e-ticketing interfaces using native Android UI workflows[cite: 1]. This centralized tracking hub drastically lowers logistical tracking overhead while modernizing commuter experiences[cite: 1].
 </details>
 
 ---
 
 ## 6. Experience Section
 
-### Senior Software Engineer | FAANG Technology Corporation
-**July 2023 - Present**
+### UI/UX Engineer | Zhapix Technologies
+**September 2025 - Present**[cite: 1]
 
-Architected and scaled core platform components managing global developer services. Spearheaded systemic changes to caching models and cross-region execution protocols.
+Architecting and polishing interface systems across dynamic mobile applications and full-scale web portfolios[cite: 1]. Leading frontend developer collaboration paths to compress deployment lifecycle friction[cite: 1].
 
-*   Led a team of 8 engineers designing a globally distributed microservice fabric handling 150K+ daily concurrent connections.
-*   Migrated monolithic authentication pathways to an asynchronous token federation layer, decreasing end-to-end API round-trip times by 85ms.
-*   Pioneered a custom internal database sharding router that mitigated cascading database deadlocks during high-load traffic campaigns.
-*   Mentored 6 associate developers and instituted rigorous CI/CD validation patterns, reducing production deployment rollbacks to less than 0.5%.
+*   Designed responsive web and mobile UIs from raw user request constraints, boosting consistency across hardware types[cite: 1].
+*   Created low-to-high fidelity wireframes, user experience flows, and functional interactive prototypes for active clientele[cite: 1].
+*   Collaborated directly with backend and engineering staff to transfer designs into production code, cutting design gaps[cite: 1].
+*   Analyzed usability feedback data to implement iterative style revisions, raising digital accessibility scores[cite: 1].
 
-`Next.js` `Go` `Kubernetes` `AWS` `gRPC` `Redis` `PostgreSQL`
+`Figma` `HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Responsive Design`
 
 ---
 
-### Software Engineer II | Enterprise FinTech Solutions
-**January 2021 - June 2023**
+### UI/UX Designer | Zhapix Technologies
+**June 2024 - June 2025**[cite: 1]
 
-Designed financial transaction networks processing compliant payment lifecycles and historical high-volume reporting schemas.
+Managed user research documentation, end-to-end design layout workflows, and enterprise site administration models[cite: 1].
 
-*   Engineered a high-availability ledger API backend maintaining strict ACID compliance over distributed databases across 3 active availability zones.
-*   Refactored localized frontends into module-federated architectures, decreasing web vitals Largest Contentful Paint (LCP) speeds by 1.8 seconds.
-*   Implemented automated predictive scaling rules on cloud infrastructure clusters, decreasing overall computing overhead by 34% month-over-month.
+*   Produced holistic UX deliverables including detailed user personas, behavioral journey flows, and high-fidelity wireframes[cite: 1].
+*   Constructed production website portals using professional platforms including Zoho Sites, Zoho Forms, and Zoho Creator[cite: 1].
+*   Restructured navigational hierarchies and grid system structures to clean up typography readability and overall page visual flow[cite: 1].
+*   Maintained staging and live product deployments, gathering deep domain expertise on corporate deployment cycles[cite: 1].
 
-`React` `TypeScript` `Node.js` `Docker` `Kafka` `MongoDB` `GCP`
+`Zoho Suite` `Canva` `Figma` `User Research` `Wireframing` `Web Design`
 
 ---
 
@@ -154,9 +174,9 @@ Designed financial transaction networks processing compliant payment lifecycles 
 
 | Recognition | Details |
 | :---: | :--- |
-| **FAANG Technical Innovation Award** | Recognized for optimizing core platform storage layers, saving significant infrastructure capital. |
-| **1st Place Global AI Hackathon** | Designed an automated open-source visual debugging proxy parsing telemetry using multi-modal agents. |
-| **Open Source Core Contributor** | Committer status achieved within major industry distributed streaming and data structures frameworks. |
+| **Naalayathiran - IBM Skill Build** | Completed technical project specialization framework covering enterprise software methodologies[cite: 1]. |
+| **Umagine & Kani Tamil Presenter** | Engaged with innovative technological community showcases focused on regional technical advancement[cite: 1]. |
+| **Mobile App Suite Architect** | Engineered and launched an independent suite of three utility programs at NSIC Chennai[cite: 1]. |
 
 ---
 
@@ -164,23 +184,23 @@ Designed financial transaction networks processing compliant payment lifecycles 
 
 ### AWS
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect Professional" />
-  <img src="https://img.shields.io/badge/AWS-Machine_Learning_Specialty-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Certified Machine Learning Specialty" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Concepts_Partner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Framework Foundations" />
 </p>
 
 ### Oracle
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle-Java_SE_17_Developer-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Certified Java SE 17 Developer" />
+  <img src="https://img.shields.io/badge/Oracle-Java_Programming_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Java Programming Certified" />[cite: 1]
+  <img src="https://img.shields.io/badge/Oracle-SQL_Bootcamp_Expert-F80000?style=flat-square&logo=oracle&logoColor=white" alt="SQL Bootcamp Certified" />[cite: 1]
 </p>
 
 ### NPTEL
 <p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Advanced_Computer_Architecture-0052CC?style=flat-square&logo=education" alt="NPTEL Advanced Computer Architecture" />
+  <img src="https://img.shields.io/badge/NPTEL-Deep_Learning_Specialization-0052CC?style=flat-square&logo=education" alt="NPTEL Deep Learning" />[cite: 1]
 </p>
 
 ### Cisco
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+  <img src="https://img.shields.io/badge/Cisco-Network_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Network Essentials" />[cite: 1]
 </p>
 
 ---
@@ -188,7 +208,7 @@ Designed financial transaction networks processing compliant payment lifecycles 
 ## 9. Coding Profiles Section
 
 <p align="left">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" /></a>
+  <a href="https://leetcode.com/Sunithachanda"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" /></a>
   <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-Learn-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" /></a>
   <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Code-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" /></a>
   <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-Compete-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" /></a>
@@ -199,12 +219,12 @@ Designed financial transaction networks processing compliant payment lifecycles 
 ## 10. GitHub Analytics Section
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=github_username&show_icons=true&theme=dark&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github_username&layout=compact&theme=dark&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=30363D" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunithachanda&show_icons=true&theme=dark&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunithachanda&layout=compact&theme=dark&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=30363D" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github_username&theme=dark&background=0D1117&title=A78BFA&ring=7C3AED&fire=6D28D9&stroke=30363D&text=C9D1D9" alt="GitHub Streak Stats" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunithachanda&theme=dark&background=0D1117&title=A78BFA&ring=7C3AED&fire=6D28D9&stroke=30363D&text=C9D1D9" alt="GitHub Streak Stats" width="97%" />
 </p>
 
 ---
@@ -212,7 +232,7 @@ Designed financial transaction networks processing compliant payment lifecycles 
 ## 11. GitHub Trophies Section
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=github_username&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sunithachanda&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -220,7 +240,7 @@ Designed financial transaction networks processing compliant payment lifecycles 
 ## 12. Contribution Activity Section
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=github_username&theme=react-dark&bg_color=0D1117&color=7C3AED&line=A78BFA&point=FFFFFF&area=true&hide_border=false" alt="GitHub Contribution Activity Graph" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunithachanda&theme=react-dark&bg_color=0D1117&color=7C3AED&line=A78BFA&point=FFFFFF&area=true&hide_border=false" alt="GitHub Contribution Activity Graph" width="97%" />
 </p>
 
 ---
@@ -228,7 +248,7 @@ Designed financial transaction networks processing compliant payment lifecycles 
 ## 13. Contribution Snake Section
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github_username/github_username/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="97%" />
+  <img src="https://raw.githubusercontent.com/Sunithachanda/Sunithachanda/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="97%" />
 </p>
 
 ---
@@ -237,14 +257,14 @@ Designed financial transaction networks processing compliant payment lifecycles 
 
 ```yaml
 learning:
-  - "Distributed Consensus Protocols (Raft, Paxos Deep Dive)"
-  - "Triton Kernels for Specialized LLM Inference Optimization"
+  - "Advanced Component Life-Cycle Strategies & React Hooks Performance Optimization"
+  - "Heuristic Product Usability Testing Methods & High-Fidelity UI Motion Layouts"[cite: 1]
 building:
-  - "Multi-Agent Graph-Based Code Refactoring Engines"
-  - "High-Throughput Rust Event Bus Layer for Linux Environments"
+  - "Component Design Systems Engineered for Strict Web Content Accessibility (WCAG)"[cite: 1]
+  - "Optimized Web Portfolios Utilizing Fluid CSS Layout Architectures without Framework Bloat"[cite: 1]
 exploring:
-  - "Quantum Machine Learning Frameworks and Hybrid Circuit Topologies"
-  - "WebAssembly (WASM) Strategies for Sandboxed Edge Computing Models"
+  - "Asynchronous Interface State Management Frameworks & Dynamic DOM Render Passes"[cite: 1]
+  - "Automated End-to-End Design Validation Proxies Scripted for Cross-Device Layout Verification"[cite: 1]
 open_to:
-  - "Core Systems Architecture Consultation Advisory Roles"
-  - "Strategic Collaborative Tech Leadership Opportunities"
+  - "Strategic Collaborative Industry Hackathons & Technical Product Research Groups"[cite: 1]
+  - "Junior UI/UX Design Engineering & Core Front-End Development Professional Placement"[cite: 1]
