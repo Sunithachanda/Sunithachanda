@@ -52,10 +52,6 @@ Bridging the gap between front-end development and intuitive design systems[cite
   <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" alt="Frontend" />
 </p>
 
-### Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" alt="Backend & Databases" />
-</p>
 
 ### Cloud, DevOps & Tooling
 <p align="left">
